@@ -420,6 +420,11 @@ footer p {
     order: -1;
 }
 
+.footer-social ul {
+    display: flex;
+    gap: 10px;
+}
+
 .footer-social img {
     width: 25px;
     height: 25px;
