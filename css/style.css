@@ -99,6 +99,10 @@ img {
     height: 100%;
 }
 
+.remove_underline {
+    text-decoration: none;
+}
+
 /* NAV */
 
 .nav-container {
@@ -469,7 +473,7 @@ footer h5 {
 }
 
 footer p {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .footer-top {
@@ -506,7 +510,7 @@ footer p {
 }
 
 .footer-bottom {
-    font-size: 11px;
+    font-size: 13px;
     text-align: center;
 }
 
@@ -555,12 +559,12 @@ footer p {
     }
 
     .footer-about {
-        flex: 1;
+        /* flex: 1; */
     }
 
     .footer-social {
         order: initial;
-        flex: 1;
+        /* flex: 1; */
     }
     
 }
