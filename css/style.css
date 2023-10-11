@@ -319,7 +319,7 @@ button:hover {
 }
 
 .section-title {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .section-title h2 {
@@ -369,7 +369,7 @@ button:hover {
 .skill-block {
     border-radius: 5px;
     background-color: #bebeba80;
-    padding: 5px;
+    padding: 5px 20px;
 }
 
 /* PROJECTS */
@@ -378,6 +378,9 @@ button:hover {
     margin-top: 70px;
 }
 
+.project {
+    margin-bottom: 80px;
+}
 
 .project-img {
     margin: 80px auto 30px;
@@ -583,7 +586,7 @@ footer p {
     }
 
     .about-me {
-        flex: 1.5;
+        flex: 2.5;
     }
 
     .about-me p {
@@ -606,7 +609,7 @@ footer p {
     }
 
     .project-details {
-        flex: 1;
+        flex: 2;
         text-align: left;
     }
 
